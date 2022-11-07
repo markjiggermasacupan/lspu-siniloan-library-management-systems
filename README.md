@@ -3,16 +3,16 @@
 ###### FEATURES:
 * 1-Homepage
 * 2-Student Portal;
-*   Sign-in
+* <pre>  Sign-in
 *   Request Books
-*   Edit Profile
+*   Edit Profile </pre>
 * 3-Admin Portal;
-*   Dashboard Book Records
+* <pre>  Dashboard Book Records
 *   Manage Profile Students
 *   Categories ft. CRUD
 *   Authors ft. CRUD
 *   Books Entries w/ Search System
-*   Monitoring Book Requests with Approve and Decline History
+*   Monitoring Book Requests with Approve and Decline History</pre>
 
 ###### DEVELOPER:
 * Masacupan, Mark Jigger V.
