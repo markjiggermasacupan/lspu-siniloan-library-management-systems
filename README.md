@@ -1,12 +1,12 @@
 ## LSPU Siniloan Library Management System
                                                         
 ###### FEATURES:
-* 1-Homepage
-* 2-Student Portal;
+* HOMEPAGE
+* STUDENT PORTAL
 <pre>  Sign-in </pre>
 <pre>  Request Books </pre>
 <pre>  Edit Profile </pre>
-* 3-Admin Portal;
+* ADMIN DASHBOARD
 <pre>  Dashboard Book Records </pre>
 <pre>  Manage Profile Students </pre>
 <pre>  Categories ft. CRUD </pre>
